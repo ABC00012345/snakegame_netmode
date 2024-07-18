@@ -1,0 +1,11 @@
+Todos, things that maybe can be added into game:
+
+[+] improving the server gui,making it possible to kick clients [need to be fixed, client doesnt receive 'kick' message] out of lobby or even block them [+] done
+
+1. giving clients the ability to send messages to other clients (into lobby), if in lobby
+
+2. making the game less buggy!
+
+3. showing points at the end of the game [+]
+
+4. making clients not able to join during game, notify them [+]

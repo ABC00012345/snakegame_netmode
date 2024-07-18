@@ -1,0 +1,8 @@
+day 7 saturday:
+implemented snake server logic (work time: 8-10h)
+
+day 8 sunday:
+rewritten local game logic into client of snake game (work time: 6-8h)
+
+day 9 monday:
+fixed server block and kick logic, and more small bug fixes, notify player if joining during game session... (2-3h)
